@@ -35,11 +35,13 @@
 - [Aleo Info](https://aleo.info) - Block Explorer
 - [Haruka's Aleo Explorer](https://explorer.hamp.app) - A block explorer developed by the community leader [@HarukaMa](https://github.com/HarukaMa)
 - [aleochain.io](https://aleochain.io) - Community-developed block explorer (not continuously updated)
+- [Week in Aleo News](https://www.weekinaleonews.com/)
 
 ## Development Resources
 - [Aleo Development Starter Pack](https://www.entropy1729.com/aleo-development-starter-pack/) - Introduction to Aleo Application Development, explaining how to deploy Aleo applications on the testnet
 - [@aleohq/sdk](https://github.com/AleoHQ/aleo) - Official JavaScript SDK
 - [@qqmee/sdk-account-nodejs](https://github.com/qqmee/aleo-sdk) - JavaScript SDK developed by community leader [@qqmee]
+- [Aleo Plugin for Sublime Text 3](https://github.com/AleoHQ/aleo/tree/main/sublime) - Aleo Plugin
 
 ## Algorithm optimization
 - [Poseidon Hash](https://www.poseidon-hash.info) - Poseidon Algorithm Resource Station
@@ -57,13 +59,25 @@
 - [Getting Started with Aleo instructions](https://www.entropy1729.com/getting-started-aleo-instructions/)
 - [Aleo Development Starter Pack](https://www.entropy1729.com/aleo-development-starter-pack/)
 - [Aleo Development Started Pack (copy)](https://hackmd.io/_uigVPDqRZSJxxlhxKduRg?view)
+- [Aleo Supplementary Instructions](https://hackmd.io/aC8e3dtqS7uJuwMLrujx4g)
+- [\[Old\]A Flying Tour of Leo](https://web.archive.org/web/20210919022134/https://developer.aleo.org/developer/language/flying_tour/)
 
 ## Projects building on Aleo
 - [Demox Labs (Stable Coin)](https://www.demoxlabs.xyz/)
 - [Medici Collective](https://www.medicicollective.co/)
 - [Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs)
 - [Entropy1729](https://twitter.com/1729entropy)
-- [Private, audit-friendly multisigs for on-chain orgs](https://twitter.com/gonucleo)
+- [Private, audit-friendly multisigs for on-chain orgs - Twitter](https://twitter.com/gonucleo)
+- [Private, audit-friendly multisigs for on-chain orgs](https://www.gonucleo.xyz)
+- https://github.com/Entropy1729/aleo_roulette/
+- https://github.com/Entropy1729/aleo_minimum_anti_collusion_infrastructure
+- [New (WIP) token.aleo program ](https://github.com/AleoHQ/aleo/tree/main/examples/token)
+- https://github.com/arosboro/is_prime
+- [This is an implementation of the Bulls and Cows game in Aleo.](https://github.com/mlsmith/aleo-numbers)
+
+## Telegram
+- Week in Aleo News(https://t.me/aleoweeklynews)
+- Aleo Devs()
 
 ## Creds
 - https://github.com/minerdao/awesome-aleo
