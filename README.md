@@ -39,4 +39,5 @@
 ## Algorithm optimization
 - [Poseidon Hash](https://www.poseidon-hash.info) - Poseidon Algorithm Resource Station
 
-Creds:
+## Creds
+- https://github.com/minerdao/awesome-aleo
