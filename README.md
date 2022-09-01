@@ -56,12 +56,14 @@
 #### Tutorials & Articles
 - [Getting Started with Aleo instructions](https://www.entropy1729.com/getting-started-aleo-instructions/)
 - [Aleo Development Starter Pack](https://www.entropy1729.com/aleo-development-starter-pack/)
+- [Aleo Development Started Pack (copy)](https://hackmd.io/_uigVPDqRZSJxxlhxKduRg?view)
 
 ## Projects building on Aleo
 - [Demox Labs (Stable Coin)](https://www.demoxlabs.xyz/)
 - [Medici Collective](https://www.medicicollective.co/)
 - [Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs)
 - [Entropy1729](https://twitter.com/1729entropy)
+- [Private, audit-friendly multisigs for on-chain orgs](https://twitter.com/gonucleo)
 
 ## Creds
 - https://github.com/minerdao/awesome-aleo
