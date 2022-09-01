@@ -38,10 +38,12 @@
 - [Week in Aleo News](https://www.weekinaleonews.com/)
 
 ## Development Resources
+- [Tooling](https://developer.aleo.org/aleo/tooling/) [Tooling 2](https://developer.aleo.org/leo/additional_material/tooling)
 - [Aleo Development Starter Pack](https://www.entropy1729.com/aleo-development-starter-pack/) - Introduction to Aleo Application Development, explaining how to deploy Aleo applications on the testnet
 - [@aleohq/sdk](https://github.com/AleoHQ/aleo) - Official JavaScript SDK
 - [@qqmee/sdk-account-nodejs](https://github.com/qqmee/aleo-sdk) - JavaScript SDK developed by community leader [@qqmee]
 - [Aleo Plugin for Sublime Text 3](https://github.com/AleoHQ/aleo/tree/main/sublime) - Aleo Plugin
+- [Leo IntelliJ Plugin](https://github.com/HarukaMa/leo-intellij-plugin) - [Deployment Guide](https://plugins.jetbrains.com/docs/intellij/deploying-plugin.html)
 
 ## Algorithm optimization
 - [Poseidon Hash](https://www.poseidon-hash.info) - Poseidon Algorithm Resource Station
@@ -60,7 +62,7 @@
 - [Aleo Development Starter Pack](https://www.entropy1729.com/aleo-development-starter-pack/)
 - [Aleo Development Started Pack (copy)](https://hackmd.io/_uigVPDqRZSJxxlhxKduRg?view)
 - [Aleo Supplementary Instructions](https://hackmd.io/aC8e3dtqS7uJuwMLrujx4g)
-- [\[Old\]A Flying Tour of Leo](https://web.archive.org/web/20210919022134/https://developer.aleo.org/developer/language/flying_tour/)
+- [\[Old\]A Flying Tour of Leo](https://web.archive.org/web/20210919022134/https://developer.aleo.org/developer/language/flying_tour/) - Aleo team will have them up shortly
 
 ## Projects building on Aleo
 - [Demox Labs (Stable Coin)](https://www.demoxlabs.xyz/)
@@ -74,6 +76,7 @@
 - [New (WIP) token.aleo program ](https://github.com/AleoHQ/aleo/tree/main/examples/token)
 - https://github.com/arosboro/is_prime
 - [This is an implementation of the Bulls and Cows game in Aleo.](https://github.com/mlsmith/aleo-numbers)
+- [Aleo NFT by Demox Labs](https://github.com/demox-labs/aleo-nft)
 
 ## Telegram
 - Week in Aleo News(https://t.me/aleoweeklynews)
