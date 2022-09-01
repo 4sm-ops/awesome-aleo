@@ -12,6 +12,11 @@
 - [Aleo Community](https://www.notion.so/Community-4f9bdf6988fb4e9e9eeffa9b33b89168) - Project Wiki
 - [Discord](https://discord.com/invite/aleohq) - Official Discord
 - [Twitter](https://twitter.com/aleohq) - Official Twitter
+- [Youtube](https://www.youtube.com/c/AleoSystems) - Official YouTube
+- [Community Twitter](https://twitter.com/aleocommunity) - Community Twitter
+- [Blog](https://www.aleo.org/blog) - Official Blog
+- [Medium](https://medium.com/@aleohq) - Official Medium
+- 
 
 ## Code Repos
 - [snarkOS](https://github.com/AleoHQ/snarkOS) - Mining
@@ -39,5 +44,25 @@
 ## Algorithm optimization
 - [Poseidon Hash](https://www.poseidon-hash.info) - Poseidon Algorithm Resource Station
 
+#### Podcast appearances
+- [Zero Knowledge • Episode 144: Aleo with Howard Wu](https://zeroknowledge.fm/144-2/)
+- [The BlockHash Podcast • Episode 190: Alex Pruden - COO of Aleo](https://www.blockhashpodcast.com/podcast/alex-pruden-coo-of-aleo)
+- [Law of Code • Episode 16: Sina Kian, VP of Strategy at Aleo: A16Z backed startup, Zero-Knowledge Proofs, and why "find your passion" is the wrong advice.](https://podtail.com/en/podcast/law-of-code/-16-sina-kian-vp-of-strategy-at-aleo-a16z-backed-s/)
+- [Zero Knowledge • Episode 211: It's a wrap! ZK Hack Takeaways & What's Next!](https://zeroknowledge.fm/211-2/)
+- [Thinking Crypto • Episode 144: Alex Pruden Interview - Aleo's Privacy Solutions - Zero Knowledge Proofs - a16z - Bitcoin & Crypto](https://www.thinkingcrypto.com/alex-pruden-interview-aleos-privacy-solutions-zero-knowledge-proofs-a16z-bitcoin-crypto/)
+- [Zero Knowledge • Episode 221:  Funding the Next Wave of Zero Knowledge Tech](https://zeroknowledge.fm/221-2/)
+- [CoinGecko Podcast • Episode 64: The Importance of Zero-knowledge Proof with Alex Pruden, COO of Aleo](https://player.fm/series/coingecko-podcast-bitcoin-cryptocurrency-insights/the-importance-of-zero-knowledge-proof-with-alex-pruden-coo-of-aleo-ep64)
+
+#### Tutorials & Articles
+- [Getting Started with Aleo instructions](https://www.entropy1729.com/getting-started-aleo-instructions/)
+- [Aleo Development Starter Pack](https://www.entropy1729.com/aleo-development-starter-pack/)
+
+## Projects building on Aleo
+- [Demox Labs (Stable Coin)](https://www.demoxlabs.xyz/)
+- [Medici Collective](https://www.medicicollective.co/)
+- [Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs)
+- [Entropy1729](https://twitter.com/1729entropy)
+
 ## Creds
 - https://github.com/minerdao/awesome-aleo
+- https://github.com/demox-labs/awesome-aleo/blob/main/README.md
