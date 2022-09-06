@@ -77,6 +77,7 @@
 - https://github.com/arosboro/is_prime
 - [This is an implementation of the Bulls and Cows game in Aleo.](https://github.com/mlsmith/aleo-numbers)
 - [Aleo NFT by Demox Labs](https://github.com/demox-labs/aleo-nft)
+- [Aleo Voting](https://github.com/zkprivacy/aleo-vote)
 
 ## Telegram
 - Week in Aleo News(https://t.me/aleoweeklynews)
