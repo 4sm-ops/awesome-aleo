@@ -57,6 +57,7 @@
 - [Thinking Crypto • Episode 144: Alex Pruden Interview - Aleo's Privacy Solutions - Zero Knowledge Proofs - a16z - Bitcoin & Crypto](https://www.thinkingcrypto.com/alex-pruden-interview-aleos-privacy-solutions-zero-knowledge-proofs-a16z-bitcoin-crypto/)
 - [Zero Knowledge • Episode 221:  Funding the Next Wave of Zero Knowledge Tech](https://zeroknowledge.fm/221-2/)
 - [CoinGecko Podcast • Episode 64: The Importance of Zero-knowledge Proof with Alex Pruden, COO of Aleo](https://player.fm/series/coingecko-podcast-bitcoin-cryptocurrency-insights/the-importance-of-zero-knowledge-proof-with-alex-pruden-coo-of-aleo-ep64)
+- Slides from the Presentation (Aleo Wallet): https://hackmd.io/@aleo-team/ByK9HTi05#/
 
 #### Tutorials & Articles
 - [Getting Started with Aleo instructions](https://www.entropy1729.com/getting-started-aleo-instructions/)
