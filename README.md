@@ -65,6 +65,7 @@
 - [Aleo Development Started Pack (copy)](https://hackmd.io/_uigVPDqRZSJxxlhxKduRg?view)
 - [Aleo Supplementary Instructions](https://hackmd.io/aC8e3dtqS7uJuwMLrujx4g)
 - [\[Old\]A Flying Tour of Leo](https://web.archive.org/web/20210919022134/https://developer.aleo.org/developer/language/flying_tour/) - Aleo team will have them up shortly
+- [All available instructions](https://hackmd.io/@aleo/SJ0mrYRv5#shr)  
 
 ## Projects building on Aleo
 - [Demox Labs (Stable Coin)](https://www.demoxlabs.xyz/)
