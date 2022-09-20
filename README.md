@@ -69,6 +69,7 @@
 - [All available instructions](https://hackmd.io/@aleo/SJ0mrYRv5#shr)  
 
 ## Projects building on Aleo
+- [zkDrop - Secure file/data sharing with Aleo and NuCypther] (https://github.com/4sm-ops/zkDrop)
 - [Demox Labs (Stable Coin)](https://www.demoxlabs.xyz/)
 - [Medici Collective](https://www.medicicollective.co/)
 - [Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs)
