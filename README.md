@@ -45,6 +45,7 @@
 - [Aleo Plugin for Sublime Text 3](https://github.com/AleoHQ/aleo/tree/main/sublime) - Aleo Plugin
 - [Leo IntelliJ Plugin](https://github.com/HarukaMa/leo-intellij-plugin) - [Deployment Guide](https://plugins.jetbrains.com/docs/intellij/deploying-plugin.html) - [Official JetBrains Marketplace](https://plugins.jetbrains.com/plugin/19769-leo--aleo/)
 - https://github.com/minerdao/vscode-aleo  Aleo syntaxes highlight for VSCode, welcome PRs.
+- [Vim plugin that provides Aleo file detection, syntax highlighting and basic formatting](https://github.com/julesdesmit/aleo.vim) 
 
 ## Algorithm optimization
 - [Poseidon Hash](https://www.poseidon-hash.info) - Poseidon Algorithm Resource Station
