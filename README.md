@@ -1,3 +1,8 @@
+<h3 align="center">This repo is unofficial and outdated. Please use https://github.com/howardwu/awesome-aleo </h3>
+
+
+
+
 # Aleo Resources
 ## Core
 - [Aleo Official](https://www.aleo.org) - Official Web Site
